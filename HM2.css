@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(219, 196, 161);
+}
+
+
+h1{
+    color: rgb(121, 61, 103);
+    font-family:'A';
+}
+h2{
+    color: rgb(78, 10, 48);
+    font-family:'C';
+}
+p{
+	font-family: 'E';
+}
